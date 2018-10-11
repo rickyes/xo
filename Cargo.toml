@@ -8,7 +8,7 @@ readme = "README.md"
 documentation = "https://github.com/rickyes/xo"
 repository = "https://github.com/rickyes/xo"
 homepage = "https://github.com/rickyes/xo"
-categories = ["Web programming"]
+categories = ["web-programming"]
 keywords = ["http", "service"]
 
 [workspace]
