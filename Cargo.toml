@@ -1,0 +1,20 @@
+[package]
+name = "xo"
+version = "0.1.0"
+authors = ["rickyes <mail@zhoumq.cn>"]
+license = "MIT"
+description = "Rust HTTP service framework."
+readme = "README.md"
+documentation = "https://github.com/rickyes/xo"
+repository = "https://github.com/rickyes/xo"
+homepage = "https://github.com/rickyes/xo"
+categories = ["asynchronous", "network-programming"]
+keywords = ["http", "service"]
+
+[workspace]
+
+members = [
+  "./",
+]
+
+[dependencies]
